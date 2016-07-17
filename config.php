@@ -3,6 +3,8 @@ $dbmsHost = 'localhost'; // 또는 127.0.0.1
 $dbmsId = 'root';
 $dbmsPw = 'apmsetup';
 $dbName = 'blog';
+function hello() {
+}
 
 // DB 연결
 $link = mysqli_connect($dbmsHost,
