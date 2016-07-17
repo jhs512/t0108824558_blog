@@ -4,7 +4,7 @@ $dbmsId = 'root';
 $dbmsPw = 'apmsetup';
 $dbName = 'blog';
 function hello() {
-  echo 'hi!@#12312312312';
+  echo 'hi!@#12312312312~~~~~';
 }
 
 // DB 연결
